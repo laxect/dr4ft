@@ -91,7 +91,7 @@ module.exports = class Game extends Room {
   }
 
   renew() {
-    const NINETY_MINUTES = 1000 * 60 * 90;
+    const NINETY_MINUTES = 1000 * 60 * 600;
     this.expires = Date.now() + NINETY_MINUTES;
   }
 
