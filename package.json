@@ -66,7 +66,7 @@
     "express-fileupload": "^1.2.1",
     "fast-xml-parser": "^3.18.0",
     "filepond": "^4.25.2",
-    "filepond-plugin-file-validate-size": "^2.2.2",
+    "filepond-plugin-file-validate-size": "^2.2.4",
     "filepond-plugin-file-validate-type": "^1.2.5",
     "fuse.js": "^6.4.6",
     "helmet": "^3.23.3",
